@@ -1,4 +1,4 @@
-# Nation of Gondwana 2023
+# Nation of Gondwana 2024
 
 [English Version below](#English)
 
@@ -7,11 +7,11 @@
 
 Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle, die von Berlin aus zur Nation wollen, bietet sich die Möglichkeit der Anreise mit dem Fahrrad. Auch in diesem Jahr könnt ihr so übervolle, stickige Züge und Shuttlebusse vermeiden und die von uns ausgekundschaftete Strecke genießen.
 
-Nach den Erfolgen in den letzten Jahren gibt es wieder ein von uns angeleiertes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir erstmals *fünf* geführte Fahrradtouren für die Anreise an: 
+Nach den Erfolgen in den letzten Jahren gibt es wieder ein von uns angeleiertes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir vier geführte Fahrradtouren für die Anreise an: 
 - Aus dem Berliner Norden am Freitag jeweils 10:30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen aus los. Die Strecke ist etwa 42 km lang. 
-- Von Hennigsdorf Freitag jeweils 11:30 Uhr, 15:30 Uhr, und 17.30 Uhr auf der deutlich kürzeren Strecke. Vom [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S-Bahnhof Hennigsdorf aus sind es nur noch 22 km zur NoG.
+- Von Hennigsdorf Freitag 11:30 Uhr und 15:30 Uhr auf der deutlich kürzeren Strecke. Vom [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S-Bahnhof Hennigsdorf aus sind es nur noch 22 km zur NoG.
  
-Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd.
+Jede Gruppe wird von erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd.
 
 Routen:
  - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)  [GPX](assets/routes/Berlin-NoG23.gpx)  
@@ -29,7 +29,7 @@ Für die sichere Verwahrung eures Fahrrads vor Ort ist ein [Fahrradgarderobentic
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Die Nation supportet die Touren und wir haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 19.7. 18:00 Uhr_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Mittwoch, 16.7. 18:00 Uhr_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Beschriftet euer Gepäck mit Namen und Adresse. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -37,10 +37,10 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
 - Zusammen mit dem Fahrrad zur Nation
-- 5 gemeinsame Touren am Freitag 21.7.:
+- 4 gemeinsame Touren am Freitag 19..7.:
 - Freitag, **10:30** und **14:30**, 42 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
-- Freitag, **11:30**, **15:30** und **17:30**, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Bis zum _Donnerstag 19.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Freitag, **11:30**, **15:30**, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
+- Bis zum _Mittwoch 17.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -53,11 +53,11 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to Nation there is the great opportunity to ride your bike. Also this year you can avoid overcrowded, stuffy trains and shuttle busses an take enjoy our scouted bike route.
 
-After last year's success, we are once again organizing a top-class medium-sportive event. This year we offer *five* guided bike tours for the journey: 
+After last year's success, we are once again organizing a top-class medium-sportive event. This year we offer four guided bike tours for the journey: 
 - from north Berlin friday at 10.30 Uhr and 14:30 Uhr from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) near S+U station Gesundbrunnen. The route is about 42 km long. 
-- from Hennigsdorf friday at 11:30, 15:30, 17.30 on an even shorter route. From [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S-Bahn station Hennigsdorf it's only 22 km to NoG.
+- from Hennigsdorf friday at 11:30 and 15:30on an even shorter route. From [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S-Bahn station Hennigsdorf it's only 22 km to NoG.
  
-Each group will be accompanied by three experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas.
+Each group will be accompanied by experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas.
 
 routes:
  - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [GPX](assets/routes/Berlin-NoG23.gpx)  
@@ -75,17 +75,17 @@ For the safe storrage of your bike at the destination we recomend a ["bike coat 
 **"Surely that costs extra!"**, we can hear you shouting. But no! It's free! NoG is supporting this initative and we'd love to have you with us :)
 
 Please note the following so that we can all have a relaxed journey:
-- Register on the following form _until thursday, 19.7. 18:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Register on the following form _until wednesday, 16.7. 18:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Label your luggage with your name and address.
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike ready for spring.
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
-- Cycling to the nation together, 5 rides offerd
+- Cycling to the nation together
 - Friday 21.7 at **11:30** and **15:30**, 42 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
-- Friday 21.7 at **11:30*, **15:30** and **17.30** 22 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
-- Register _until thursday, 19.7. 18:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Friday 21.7 at **11:30*, **15:30** 22 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
+- Register _until wednesday, 16.7. 18:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
