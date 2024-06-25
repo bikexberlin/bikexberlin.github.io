@@ -40,7 +40,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - 4 gemeinsame Touren am Freitag 19..7.:
 - Freitag, **10:30** und **14:30**, 42 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
 - Freitag, **11:30**, **15:30**, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Bis zum _Mittwoch 17.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Bis zum _Mittwoch 17.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/4HYjqfmoReLrVvE7JY67S+DkZzIb+ewYaRTIwismWJA/)
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -85,7 +85,7 @@ Please note the following so that we can all have a relaxed journey:
 - Cycling to the nation together
 - Friday 21.7 at **11:30** and **15:30**, 42 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
 - Friday 21.7 at **11:30*, **15:30** 22 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
-- Register _until wednesday, 16.7. 18:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Register _until wednesday, 16.7. 18:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/4HYjqfmoReLrVvE7JY67S+DkZzIb+ewYaRTIwismWJA/)
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
