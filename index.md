@@ -14,7 +14,7 @@ Nach den Erfolgen in den letzten Jahren gibt es wieder ein von uns angeleiertes 
 Jede Gruppe wird von erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd.
 
 Routen:
- - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)  [GPX](assets/routes/Berlin-NoG23.gpx)  
+ - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)  [GPX](assets/routes/Berlin-NoG24.gpx)  
  - Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)  [GPX](assets/routes/Hennigsdorf-NoG23.gpx)
 
 Zur Mitfahrt braucht ihr nur ein Festivalticket.
@@ -60,7 +60,7 @@ After last year's success, we are once again organizing a top-class medium-sport
 Each group will be accompanied by experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas.
 
 routes:
- - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [GPX](assets/routes/Berlin-NoG23.gpx)  
+ - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [GPX](assets/routes/Berlin-NoG24.gpx)  
  - Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd) [GPX](assets/routes/Hennigsdorf-NoG23.gpx)
 
 For joining the group ride you only need a festival ticket.
