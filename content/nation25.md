@@ -2,7 +2,7 @@
 title = "Nation of Gondwana 2025"
 date = 2025-07-18
 updated = 2024-12-01
-description = "von Berlin-Wedding und Hennigsdorf zur Nation of Gondwana (19.7.-21.7.2024)"
+description = "von Berlin-Wedding und Hennigsdorf zur Nation of Gondwana (18.7.-20.7.2025)"
 +++
 # Hard facts
 Hier die Kurzversion für die ganz Eiligen:
