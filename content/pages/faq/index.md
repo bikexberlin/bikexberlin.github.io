@@ -14,6 +14,7 @@ Bitte überprüfe dein Fahrrad ein paar Tage vorher auf Fahrtauglichkeit. Wir ha
 - Sonnencreme
 - Helm (oder wenns heiß ist zumindest eine Kopfbedeckung)
 - Bei Touren >40 km gibts in der Regel mehrere Pausen mit Einkaufsmöglichkeit, aber ein paar Snacks für den Notfall dabei zu haben schadet nie!
+Überprüft neben dem Fahrrad bitte auch euch selbst auf Fahrtauglichkeit! Wir behalten uns vor Personen nicht mitzunehmen von denen wir glauben, dass sie eine Gefahr für sich oder andere sein könnten.
 
 ## _**"Okay, ich und mein Vollcarbon-Rennrad plus Aerosuit sind am Start! Wo Belgischer Kreisel?"**_  
 Wir fahren in gemächlichem Tempo und richten uns nach den Langsamsten! Wenn du Lust auf Tour de France hast dann lad dir 'ne Route runter, schnapp dir eine\*n Buddy und haut rein!
