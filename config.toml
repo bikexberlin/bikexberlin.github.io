@@ -1,6 +1,6 @@
 # The URL the site will be built for
 title = "BikeX Berlin"
-base_url = "https://www.etrommer.de/bikex"
+base_url = "https://www.bikexberlin.de"
 default_language = "de"
 
 # Whether to automatically compile all Sass files in the sass directory
