@@ -17,9 +17,13 @@ socials = [
 ]
 menu = [
     { name = "FAQ", url = "faq", trailing_slash = true },
-    { name = "imprint", url = "imprint", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
 ]
+
+footer_menu = [
+    { name = "imprint", url = "imprint", trailing_slash = true },
+]
+
 show_reading_time = false
 
 
