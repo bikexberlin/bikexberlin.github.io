@@ -18,6 +18,7 @@ socials = [
 menu = [
     { name = "FAQ", url = "faq", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
+    { name = "about", url = "about", trailing_slash = true },
 ]
 
 footer_menu = [
