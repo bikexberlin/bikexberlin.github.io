@@ -1,7 +1,7 @@
 +++
 title = "Nation of Gondwana 2025"
 date = 2025-07-18
-updated = 2024-12-01
+updated = "2025-03-02"
 description = "von Berlin-Wedding und Hennigsdorf zur Nation of Gondwana (18.7.-20.7.2025)"
 +++
 # Hard facts
