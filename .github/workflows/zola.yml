@@ -1,9 +1,12 @@
 name: Zola on GitHub Pages
 
-on: 
+on:
  push:
   branches:
    - main
+  schedule:
+   # Runs at 3 AM UTC on Tuesdays
+   - cron: '0 3 * * 2'
 
 jobs:
   build:
