@@ -53,8 +53,8 @@
 
         {% set max_posts = section.extra.max_posts | default(value=999999) %}
         {{ macros_list_posts::list_posts(
-            posts=future_pages,
-            all_posts=future_pages,
+            posts=future_pages | sort(attribute="date"),
+            all_posts=future_pages | sort(attribute="date"),
             max=max_posts,
             language_strings=language_strings,
             section_path=extra_section.path | default(value="blog"),
