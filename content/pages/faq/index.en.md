@@ -5,10 +5,23 @@ insert_anchor_links = "left"
 path = "en/faq"
 +++
 
-- **"I'm not that sporty!"** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time. 
+## _**"Can I even do this?"**_
+As a rough guide: Distances of up to about 40km should be manageable without major problems, even for untrained people with reasonably intact bikes. Longer distances are generally no problem either, but it's best to test that beforehand.
 
-- **"But I always do a world-class performance in record time"**  we hear you say right there in the back. You can! We publish our routes here in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you. 
+We generally aim for a speed of around 17 km/h.
 
-- **"But how will I carry my luggage?"**, you might be asking yourself. We understand. Especially on the way there, the luggage situation is often a bit more voluminous. Therefore: For those registered tour participants without professional luggage carrying equipment on their bikes, we will organise a luggage transporter that will take one large piece of luggage and a tent to the nation so that it's just you and the lightness on the bike. Please understand that we cannot offer this service on the way back. We hope that by then you will have either drunk your stuff or found a place for it in the cars of your reality escape helper community.
+## _**"What else do I need to remember?"**_
+Please check your bike's roadworthiness a few days in advance. We carry some emergency equipment with us, but we can't salvage your grandma's bike, which has been abandoned near the train station three years ago on the tour. Please also remember the following:
+- Keys for Pitlocks or similar security systems in case of a breakdown. If you know your bike requires other special tools, please remember to pack them!
+- Water
+- Sunscreen
+- Helmet (or at least a hat if it's hot)
+- Tours >20 km usually include several breaks with shopping opportunities, but it never hurts to have a few snacks with you in case of emergency!
 
-- **"Surely that costs extra!"**, we can hear you shouting. But no! It's free! NoG is supporting this initative and we'd love to have you with us :)
+In addition to your bike, please also check your whether you yourself are safe to ride! We reserve the right not to accept anyone we believe could pose a danger to themselves or others.
+
+## _**"Amazing! Me and my full carbon road bike plus aerosuit are ready to go! Where's my Belgian tourniquet?"**_
+We'll ride at a leisurely pace and adjust to the slowest riders! If you're up for the Tour de France, download a route, grab a buddy, and go for it!
+
+## _**"Can I join you later?"**_
+Our routes are always published in advance. During the trip we use [Critical Maps](https://www.criticalmaps.net/) so that you can see exactly where we are at any time.
