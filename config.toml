@@ -12,9 +12,6 @@ minify_html = true
 theme = "tabi"
 
 [extra]
-socials = [
-    { name = "telegram", url = "https://telegram.com", icon = "telegram" },
-]
 menu = [
     { name = "FAQ", url = "faq", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
