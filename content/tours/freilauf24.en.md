@@ -1,6 +1,6 @@
 +++
 title = "FRE!LAUF 2024"
-date = 2024-06-26
+date = 2024-08-08
 updated = 2024-04-23
 description = "from Potsdam to the FRE!LAUF DIY Bike Camp 2024"
 +++
