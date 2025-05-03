@@ -5,6 +5,10 @@ updated = 2025-04-05
 description = "von Berlin zur Fusion, Lärz, 25.6.-29.6.25"
 +++
 
+<div style="text-align: center;">
+  <img src="/img/bikex_fusion.png" alt="Fusion Rakete Logo">
+</div>
+
 ### tl;dr
 - Zusammen mit dem Fahrrad zur Fusion.
 - Eine begleitete Tour am **Mittwoch und Donnerstag, dem 25. und 26.6.25 um 10 Uhr** vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).

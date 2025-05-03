@@ -5,6 +5,10 @@ updated = 2025-04-05
 description = "from Berlin to Fusion, Lärz, 25.6.-29.6.25"
 +++
 
+<div style="text-align: center;">
+  <img src="/img/bikex_fusion.png" alt="Fusion Rakete Logo">
+</div>
+
 ### tl;dr
 - Cycling to Fusion.
 - A guided tour on **Wednesday and Thursday, June 25th and 26th, 2025, at 10 a.m.** from [Oranienburg S-Bahn station](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
@@ -20,10 +24,10 @@ Cycling is fun and allows you to avoid crowded, stuffy trains and buses.
 Join us for a medium-sporty, top-class event that's even CO2-neutral! We offer guided bike tours for the journey to Fusion!
 
 ## Start:
-- Wednesday (June 25th) at 10 a.m. from Oranienburg S-Bahn station
-(https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
-- Thursday (June 27th) at 10 a.m. from Oranienburg S-Bahn station
-(https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
+- Wednesday (June 25th) at 10 a.m.
+- Thursday (June 27th) at 10 a.m.
+
+Both tours start at [Oranienburg S-Bahn station](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 
 The route is approximately 87 km long! In order to tackle that distance, you should at least occasionally cycle longer distances. We estimate 5-6 hours of pure cycling time, and there will be several stops, some with shopping opportunities.
 
@@ -38,5 +42,4 @@ To help us with the planning, please fill out the required **[registration form]
 - Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2024.gpx)
 
 ## Questions?
-Check out our [FAQ](/faq), which lists the most frequently asked questions. Feel free to join our [Telegram group](https://t.me/+VUv2dQbU44ZmN2Vi
-). We can answer questions and clarify details there! 
+Check out our [FAQ](/faq), which lists the most frequently asked questions. Feel free to join our [Telegram group](https://t.me/+VUv2dQbU44ZmN2Vi). We can answer questions and clarify details there! 
