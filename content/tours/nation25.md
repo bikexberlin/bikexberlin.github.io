@@ -2,17 +2,16 @@
 title = "Nation of Gondwana 2025"
 date = 2025-07-18
 updated = "2025-03-02"
-description = "von Berlin-Wedding und Hennigsdorf zur Nation of Gondwana (18.7.-20.7.2025)"
+description = "von Berlin-Gesundbrunnen und Hennigsdorf zur Nation of Gondwana (18.7.-20.7.2025)"
 +++
 # Hard facts
 Hier die Kurzversion für die ganz Eiligen:
 - Zusammen mit dem Fahrrad zur Nation
-- 4 gemeinsame Touren am Freitag 19.7.:
+- 4 gemeinsame geführte Touren am Freitag 18.7.:
     - Freitag, **XX** und **XX**, 42 km ab [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
     - Freitag, **XX** und **XX**, 22 km ab [Postplatz am S Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489)
-- Bis zum Mittwoch 17.7., 18:00 hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
-- Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
-- Beschriftet euer Gepäck mit Namen und Adresse
+- Für mit dem  [Bikestage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) gibt es dieses Jahr Gepäcktransport (max. 1 Gepäckstück + 1 Zelt) zur Nation und zurück.
+- Für den Gepäcktransport bis zum Mittwoch 16.7. 18:00 hier registrieren: [Nation Fahrradtour Anmeldung folgt... ](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe](https://t.me/+XsqBDVuJKdsyMWUy)
 - Bitte werft einen Blick in unsere [FAQ](/faq)
@@ -37,6 +36,6 @@ Zur Mitfahrt braucht ihr nur ein Festivalticket. Für die sichere Verwahrung eur
 Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann leichter sind oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
 ## Routen
-- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
-- Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
+- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
+- Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
 
