@@ -36,6 +36,6 @@ Zur Mitfahrt braucht ihr nur ein Festivalticket. Für die sichere Verwahrung eur
 Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann leichter sind oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
 ## Routen
-- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
+- Berlin - Nation of Gondwana: [GPX](/routes/fusion/oranienburg-fusion2025.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
 - Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
 
