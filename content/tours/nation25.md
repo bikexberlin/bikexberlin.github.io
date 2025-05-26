@@ -25,7 +25,7 @@ Nach den Erfolgen in den letzten Jahren gibt es wieder ein von uns angeleiertes 
 - Aus dem Berliner Norden am Freitag jeweils **10:30 Uhr und 14:30 Uhr** geht es vom [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) aus los. Die Strecke ist etwa 42 km lang.
 - Von Hennigsdorf Freitag **11:30 Uhr und 15:30** Uhr auf der deutlich kürzeren Strecke. Vom [Postplatz am S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch 22 km zur NoG.
 
-JJede Gruppe wird von erfahrenen nach-Grünefeld-und-zurück-Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel [OsmAnd](https://osmand.net/)
+Jede Gruppe wird von erfahrenen nach-Grünefeld-und-zurück-Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel [OsmAnd](https://osmand.net/)
 
 ## _**"Was kostest das eigentlich?"**_  
 Nix! Die Nation unterstützt die Touren und mit einem normalen Nation-Festivalticket könnt ihr einfach mitkommen! Nur wenn ihr möchtet, dass euer Gepäck hin und zurück transportiert wird, braucht ihr ein Bike Stage Plus Ticket.
