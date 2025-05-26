@@ -4,6 +4,7 @@ date = 2025-07-18
 updated = "2025-05-23"
 description = "von Berlin-Gesundbrunnen und Hennigsdorf zur Nation of Gondwana (18.7.-20.7.2025)"
 +++
+
 # Hard facts
 Hier die Kurzversion für die ganz Eiligen:
 - Zusammen mit dem Fahrrad zur Nation
