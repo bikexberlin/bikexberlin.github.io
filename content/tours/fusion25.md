@@ -36,7 +36,7 @@ Die Gruppe wird von zwei bis drei erfahrenen Radler*innen begleitet, die euch le
 ## Gepäcktransport
 Erstmals wird es in diesem Jahr für beide Touren auch einen Gepäcktransport geben. Für jeden Mitfahrenden können wir _ein Gepäckstück sowie ein Zelt o.ä._ nach Lärz transportieren. Wir können leider keinen Rücktransport anbieten - bitte haltet euch hierfür hier wenn möglich an eure Freunde und Mitcampenden.
 
-Um uns bei der Planung zu helfen, füllt bitte bis zum **Sonntag, 22.5.2025** das dafür nötige **[Anmeldeformular](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt)** aus!
+Um uns bei der Planung zu helfen, füllt bitte bis zum **Sonntag, 22.6.2025** das dafür nötige **[Anmeldeformular](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt)** aus!
 
 ## Routen
 - Birkenwerder - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2025.gpx)

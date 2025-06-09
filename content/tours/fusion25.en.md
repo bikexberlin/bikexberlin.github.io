@@ -39,7 +39,7 @@ The group will be accompanied by two or three experienced cyclists who will guid
 ## Luggage transport
 For the first time, both tours will also offer luggage transport! For each rider, we can transport one piece of luggage and a tent or similar item to Lärz. Unfortunately, we cannot offer return transport - please ask your friends and fellow campers for this if possible!
 
-To help us with the planning, please fill out the required **[registration form](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt)** by **Sunday, May 22, 2025!**
+To help us with the planning, please fill out the required **[registration form](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt)** by **Sunday, June 22, 2025!**
 
 ## Routes
 - Birkenwerder - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2024.gpx)
