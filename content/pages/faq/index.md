@@ -14,6 +14,7 @@ Bitte überprüfe dein Fahrrad ein paar Tage vorher auf Fahrtauglichkeit. Wir ha
 - Schlüssel für Pitlocks o.ä. Sicherungssysteme für den Fall einer Panne. Falls ihr wisst, dass euer Fahrrad anderes Spezialwerkzeug benötigt, denkt bitte daran es einzupacken!
 - Wasser
 - Sonnencreme
+- Regenkleidung
 - Helm (oder wenns heiß ist zumindest eine Kopfbedeckung)
 - Bei Touren >20 km gibts in der Regel mehrere Pausen mit Einkaufsmöglichkeit, aber ein paar Snacks für den Notfall dabei zu haben schadet nie!
 

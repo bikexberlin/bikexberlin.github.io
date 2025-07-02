@@ -15,6 +15,7 @@ Please check your bike's roadworthiness a few days in advance. We carry some eme
 - Keys for Pitlocks or similar security systems in case of a breakdown. If you know your bike requires other special tools, please remember to pack them!
 - Water
 - Sunscreen
+- Rain gear
 - Helmet (or at least a hat if it's hot)
 - Tours >20 km usually include several breaks with shopping opportunities, but it never hurts to have a few snacks with you in case of emergency!
 
