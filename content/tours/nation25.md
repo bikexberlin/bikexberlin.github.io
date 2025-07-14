@@ -6,10 +6,12 @@ description = "von Berlin-Gesundbrunnen und Hennigsdorf zur Nation of Gondwana (
 +++
 
 # Hard facts
+⚠️geänderte Routenführung auf den Gesundbrunnen-NoG Touren wegen Sturmschäden im Spandauer Forst (gesperrt). Details ganz unten⚠️
+
 Hier die Kurzversion für die ganz Eiligen:
 - Zusammen mit dem Fahrrad zur Nation
 - 4 gemeinsame, geführte Touren am Freitag 18.7.:
-    - Freitag, **10:30** und **14:30**, 42 km ab [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
+    - Freitag, **10:30** und **14:30**, 45 km ab [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
     - Freitag, **11.30** und **15:30**, 22 km ab [Postplatz am S Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489)
 - Für Fahrradfahrende wird mit dem  [Bike Stage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) dieses Jahr dein Gepäck (max. 1 Gepäckstück + 1 Zelt) zur Nation und zurück transportiert.
     - Gepäck für die Hinreise wird an den Treffpunkten für die gemeinsamen Touren entgegengenommen und dort gekennzeichnet.
@@ -18,6 +20,8 @@ Hier die Kurzversion für die ganz Eiligen:
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe](https://t.me/+XsqBDVuJKdsyMWUy)
 - Bitte werft einen Blick in unsere [FAQ](/faq)
+
+
 
 # Per Fahrrad zur Nation of Gondwana
 Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle, die von Berlin aus zur Nation wollen, bietet sich die Möglichkeit der Anreise mit dem Fahrrad. Auch in diesem Jahr könnt ihr so übervolle, stickige Züge und Shuttlebusse vermeiden und die von uns ausgekundschaftete Strecke genießen.
@@ -40,6 +44,7 @@ Anders als in den letzten Jahren gibt es ohne Bike Stage Plus Ticket _keinen_ Ge
 
 ## Routen
 Wir haben über die Jahre zwei sehr schöne Routen zum Festival gefunden, diese werden weiter aktualisiert. Auch wenn ihr unabhäng von den gemeinsamen Fahrradtouren anreisen wollt, nutzt gerne diese Routen:
+⚠️ geänderte Routenführung auf den Gesundbrunnen-NoG Touren wegen Sturmschäden im Spandauer Forst (gesperrt). GPX und Komoot wurden aktualisiert ⚠️
 - Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
 - Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
 
