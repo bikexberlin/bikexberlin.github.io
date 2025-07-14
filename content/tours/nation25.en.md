@@ -14,7 +14,7 @@ Here is the short version for those in a hurry:
 - 4 joint, guided tours on Friday 18.7:
     - Friday, **10:30** and **14:30**, 42 km from [Blochplatz at S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
     - Friday, **11.30** and **15:30**, 22 km from [Postplatz am S Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489)
-- For cyclists with a [Bike Stage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) we will transport your luggage (max. 1 piece of luggage + 1 tent) to Nation and back this year.
+- For cyclists with a [Bike Stage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) we will transport your luggage (max. 1 big piece of luggage + 1 tent) to Nation and back this year.
     - Luggage for the outward journey will be accepted at the meeting points for the joint tours and marked there.
     - Luggage transportation back from Nation until Monday 12:00 noon at the Bike Stage ("bike coat check")
     - Luggage collection in Berlin [Zum Böhmischen Dorf Sanderstraße 11, 12047 Berlin](https://g.co/kgs/RsFappL) on Monday between 18:00 and 24:00 and on Tuesday between 17:00 and 24:00.
