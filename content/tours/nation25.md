@@ -13,7 +13,7 @@ Hier die Kurzversion für die ganz Eiligen:
 - 4 gemeinsame, geführte Touren am Freitag 18.7.:
     - Freitag, **10:30** und **14:30**, 45 km ab [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
     - Freitag, **11.30** und **15:30**, 22 km ab [Postplatz am S Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489)
-- Für Fahrradfahrende wird mit dem  [Bike Stage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) dieses Jahr dein Gepäck (max. 1 Gepäckstück + 1 Zelt) zur Nation und zurück transportiert.
+- Für Fahrradfahrende wird mit dem  [Bike Stage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) dieses Jahr dein Gepäck (max. 1 großes Gepäckstück + 1 Zelt) zur Nation und zurück transportiert.
     - Gepäck für die Hinreise wird an den Treffpunkten für die gemeinsamen Touren entgegengenommen und dort gekennzeichnet.
     - Gepäckrücktransport Abgabe auf dem Acker bis Montag 12:00 Uhr an der Bike Stage (Fahrradgadrobe)
     - Gepäckabholung in Berlin [Zum Böhmischen Dorf Sanderstraße 11, 12047 Berlin](https://g.co/kgs/RsFappL) am Montag zwischen 18:00 Uhr und 24:00 Uhr und am Dienstag zwischen 17:00 Uhr und 24:00 Uhr.
