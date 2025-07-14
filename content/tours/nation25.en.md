@@ -6,6 +6,9 @@ description = "from Berlin Wedding & Hennigsdorf to the Nation of Gondwana, Grü
 +++
 
 # Hard facts
+
+⚠️ Route changes on the Gesundbrunnen-NoG tours due to storm damage in the Spandau Forest (closed). Details at the bottom⚠️
+
 Here is the short version for those in a hurry:
 - Together by bike to Nation ofGondwana
 - 4 joint, guided tours on Friday 18.7:
@@ -40,6 +43,9 @@ Different from the last years, the transport of luggage requires a Bike Stage Pl
 
 ## Routes
 Over the years we have found two very nice routes to the festival, these will be updated. Even if you want to travel independently from the joint bike tours, you are welcome to use these routes:
+
+⚠️ Route changes on the Gesundbrunnen-NoG tours due to storm damage in the Spandau Forest (closed). GPX and Komoot have been updated ⚠️
+
 - Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
 - Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
 
