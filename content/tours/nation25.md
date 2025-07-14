@@ -44,7 +44,9 @@ Anders als in den letzten Jahren gibt es ohne Bike Stage Plus Ticket _keinen_ Ge
 
 ## Routen
 Wir haben über die Jahre zwei sehr schöne Routen zum Festival gefunden, diese werden weiter aktualisiert. Auch wenn ihr unabhäng von den gemeinsamen Fahrradtouren anreisen wollt, nutzt gerne diese Routen:
+
 ⚠️ geänderte Routenführung auf den Gesundbrunnen-NoG Touren wegen Sturmschäden im Spandauer Forst (gesperrt). GPX und Komoot wurden aktualisiert ⚠️
+
 - Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
 - Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
 
