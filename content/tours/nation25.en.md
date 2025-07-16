@@ -17,7 +17,7 @@ Here is the short version for those in a hurry:
 - For cyclists with a [Bike Stage Plus Tickets](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) we will transport your luggage (max. 1 big piece of luggage + 1 tent) to Nation and back this year.
     - Luggage for the outward journey will be accepted at the meeting points for the joint tours and marked there.
     - Luggage transportation back from Nation until Monday 12:00 noon at the Bike Stage ("bike coat check")
-    - Luggage collection in Berlin [Zum Böhmischen Dorf Sanderstraße 11, 12047 Berlin](https://g.co/kgs/RsFappL) on Monday between 18:00 and 24:00 and on Tuesday between 17:00 and 24:00.
+    - Luggage collection in Berlin [Zum Böhmischen Dorf Sanderstraße 11, 12047 Berlin](https://g.co/kgs/RsFappL) on Monday between **18:00** and **22:00** and on Tuesday between **17:00** and **24:00**.
 - Leisurely pace. We do not race and follow the slowest.
 - Telegram group for exchange and questions: [Telegram group](https://t.me/+XsqBDVuJKdsyMWUy)
 - Please take a look at our [FAQ](/faq)
@@ -38,7 +38,7 @@ Nothing! Nation supports the tours and with a normal Nation festival ticket you 
 You only need a festival ticket for the ride. A [Bike Stage or Bike Stage Plus Ticket](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde) ("bike coat check") is recommended for the safe storage of your bike on site, otherwise you will have to park your bike on the campsite.
 
 ## _**”...and what about my luggage? ”**_  
-For those tour participants with a [Bike Stage Plus Ticket](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde), we will organize a luggage transport service to take one piece of luggage and a tent to  Nation and back, so that you have your back free for the wind.  On the way there, you simply bring your luggage to the meeting point and get it back directly at the Bike Stage ("bike coat check") on arrival. For the return transport, the luggage must be handed in at the Bike Stage ("bike coat check") by 12:00 noon on Monday. It can then be collected at the bar [Zum Böhmischen Dorf Sanderstraße 11, 12047 Berlin ](https://g.co/kgs/RsFappL) on Monday 21.07 between 6 pm and midnight and Tuesday between 5 pm and midnight.  
+For those tour participants with a [Bike Stage Plus Ticket](https://www.tixforgigs.com/de-DE/Event/64625/nation-of-gondwana-2025-waldsee-bei-grunefeld-grunefeld-bei-schonwalde), we will organize a luggage transport service to take one piece of luggage and a tent to  Nation and back, so that you have your back free for the wind.  On the way there, you simply bring your luggage to the meeting point and get it back directly at the Bike Stage ("bike coat check") on arrival. For the return transport, the luggage must be handed in at the Bike Stage ("bike coat check") by 12:00 noon on Monday. It can then be collected at the bar [Zum Böhmischen Dorf Sanderstraße 11, 12047 Berlin ](https://g.co/kgs/RsFappL) on Monday 21.07 between 6 pm and 10pm and Tuesday between 5 pm and midnight.  
 Different from the last years, the transport of luggage requires a Bike Stage Plus Ticket. If you only have a regular ticket, you can of course join - you only have to take your stuff with you on the bike.
 
 ## Routes
