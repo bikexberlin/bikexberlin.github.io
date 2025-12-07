@@ -19,3 +19,6 @@ In order to be able to travel to even more festivals in the future, we are looki
 Would you like to find out more about bikeX and/or get actively involved? There are many ways to get involved, e.g. by supporting the bike tours to festivals, communication with festivals, social media, recruiting people, writing texts for the website, etc.
 
 If you would like to find out more, please contact us directly at: [bikex@mail.de](mailto:bikex@mail.de)
+
+# Pictures
+{{ auto_gallery() }}

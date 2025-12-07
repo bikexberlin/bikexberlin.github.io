@@ -10,7 +10,7 @@ Wir sind eine Gruppe von Menschen die gerne feiern gehen. Uns ist wichtig, dabei
 Die meisten CO2 Emissionen auf Festivals entstehen durch die Mobilität: insbesondere der An- und Abreise!
 Daher sind wir weiterhin von der Idee begeistert, gemeinsam als Gruppen die Festivals mit Fahrrad anzusteuern. Das verringert nicht nur den ökologischen Fußabdruck - man kann auf diese Art auch neue Leute kennenlernen und sich vernetzen.
 
-Zusätzlich sehen wir die Anreise per Rad als den perfekten Einstieg in das Festival: Wer mit dem Fahrrad anreist kann einen letzten entspannten vor dem Festival-Trubel genießen, bekommt ein Gefühl für die Umgebung und kann die Pausen an den schönsten Orten verbringen.
+Zusätzlich sehen wir die Anreise per Rad als den perfekten Einstieg in das Festival: Wer mit dem Fahrrad anreist kann einen letzten entspannten Moment vor dem Festival-Trubel genießen, bekommt ein Gefühl für die Umgebung und kann die Pausen an den schönsten Orten verbringen.
 
 Um zukünftig noch mehr Festivals anfahren zu können, freuen wir uns über neue Menschen. Wenn ihr Lust hast, schreib uns gerne an!
 
@@ -19,3 +19,6 @@ Um zukünftig noch mehr Festivals anfahren zu können, freuen wir uns über neue
 Du hast Lust mehr über bikeX zu erfahren und/oder dich aktiv einzubringen? Es gibt viele Möglichkeiten sich zu betätigen, z.B. Unterstützung bei den Radtouren zu Festivals, Kontaktaufnahme/ Kommunikation mit Festivals, Social Media, Leute werben, Texte für die Website, etc. 
 
 Wenn du mehr erfahren willst, schreib uns gerne direkt an, unter: [bikex@mail.de](mailto:bikex@mail.de)
+
+# Fotos
+{{ auto_gallery() }}
