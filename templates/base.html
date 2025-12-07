@@ -41,18 +41,7 @@ This variable will hold all the text strings for the language #}
         {% endblock main_content %}
     </div>
     {% include "partials/footer.html" %}
-    <script type="module">
-        import PhotoSwipeLightbox from '/js/photoswipe-lightbox.js';
-        import PhotoSwipe from '/js/photoswipe.js';
-        const lightbox = new PhotoSwipeLightbox({
-        gallery: '#gallery',
-        children: 'a',
-        spacing: 0.5,
-        pswpModule: PhotoSwipe
-  });
-
-  lightbox.init();
-</script>
+    <script type="module" src="{{ get_url(path='js/photoswipe_init.js') | safe }}"></script>
 </body>
 
 </html>
