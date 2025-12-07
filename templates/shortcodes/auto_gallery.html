@@ -2,7 +2,7 @@
 {% for asset in page.assets %}
     {%- if asset is matching("[.](jpg|jpeg|png|webp)$") -%}
     {% set large_image = resize_image(path=asset, height=2000, op="fit_height") %}
-    {% set thumbnail = resize_image(path=asset, width=300, height=200, op="fill") %}
+    {% set thumbnail = resize_image(path=asset, width=200, height=160, op="fill") %}
 
     <a href="{{ large_image.url }}"
        data-pswp-width="{{ large_image.width }}"
