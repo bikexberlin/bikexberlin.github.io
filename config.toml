@@ -11,7 +11,12 @@ minify_html = true
 
 theme = "tabi"
 
+
 [extra]
+stylesheets = [
+    "/css/photoswipe.min.css",
+    "/css/gallery.css"
+]
 menu = [
     { name = "FAQ", url = "faq", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
