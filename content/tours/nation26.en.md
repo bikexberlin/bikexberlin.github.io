@@ -1,7 +1,7 @@
 +++
 title = "Nation of Gondwana 2026"
 date = 2026-07-16
-updated = 2025-12-07
+updated = 2026-01-05
 description = "from Berlin Wedding & Hennigsdorf to the Nation of Gondwana, Tours on thursday and friday, Grünefeld (Festival 16.7.-19.7.2026)"
 +++
 
