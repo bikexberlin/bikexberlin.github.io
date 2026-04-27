@@ -9,9 +9,6 @@ description = "von Berlin zur Fusion, Lärz, 24.6.-28.6.26"
   <img src="/img/bikex_fusion.png" alt="Fusion Rakete Logo">
 </div>
 
-# **Achtung, geänderter Startpunkt!**
-Um die wegen Zugausfällen voraussichtlich sehr volle S1 nach Oranienburg zu vermeiden starten wir in diesem Jahr bereits vom **S-Bahnhof Birkenwerder!**
-
 ### tl;dr
 - Zusammen mit dem Fahrrad zur Fusion.
 - Eine begleitete Tour am **Mittwoch und Donnerstag, dem 24. und 25.6.25 um 10 Uhr** vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)

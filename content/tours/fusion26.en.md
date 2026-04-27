@@ -9,9 +9,6 @@ description = "from Berlin to Fusion, Lärz, 24.6.-28.6.26"
   <img src="/img/bikex_fusion.png" alt="Fusion Rakete Logo">
 </div>
 
-# **New starting point!**
-To avoid the likely overcrowded S1 to Oranienburg, the tour will start from **S-Bhf Birkenwerder** this year!
-
 ### tl;dr
 - Cycling to Fusion.
 - A guided tour on **Wednesday and Thursday, June 24th and 24th, 2026, at 10 a.m.** from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
