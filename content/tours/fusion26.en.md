@@ -11,7 +11,7 @@ description = "from Berlin to Fusion, Lärz, 24.6.-28.6.26"
 
 ### tl;dr
 - Cycling to Fusion.
-- A guided tour on **Wednesday and Thursday, June 24th and 24th, 2026, at 10 a.m.** from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
+- A guided tour on **Wednesday and Thursday, June 24th and 25th, 2026, at 10 a.m.** from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 
 - Leisurely speeds. We're not racing and will adjust the speed for the slowest riders.
 - Register using our [registration form](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt) so we can plan the luggage transport better.
@@ -25,8 +25,8 @@ Cycling is fun and allows you to avoid crowded, stuffy trains and buses.
 Join us for a medium-sporty, top-class event that's even CO2-neutral! We offer guided bike tours for the journey to Fusion!
 
 ## Start:
-- Wednesday (June 25th) at 10 a.m.
-- Thursday (June 26th) at 10 a.m.
+- Wednesday (June 24th) at 10 a.m.
+- Thursday (June 25th) at 10 a.m.
 
 Both tours start at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 
@@ -37,8 +37,6 @@ The group will be accompanied by two or three experienced cyclists who will guid
 
 ## Luggage transport
 For the first time, both tours will also offer luggage transport! For each rider, we can transport one piece of luggage and a tent or similar item to Lärz. Unfortunately, we cannot offer return transport - please ask your friends and fellow campers for this if possible!
-
-To help us with the planning, please fill out the required **[registration form](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt)** by **Sunday, June 21, 2025!**
 
 ## Routes
 - Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2024.gpx)

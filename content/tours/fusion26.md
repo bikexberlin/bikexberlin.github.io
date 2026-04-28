@@ -11,7 +11,7 @@ description = "von Berlin zur Fusion, Lärz, 24.6.-28.6.26"
 
 ### tl;dr
 - Zusammen mit dem Fahrrad zur Fusion.
-- Eine begleitete Tour am **Mittwoch und Donnerstag, dem 24. und 25.6.25 um 10 Uhr** vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
+- Eine begleitete Tour am **Mittwoch und Donnerstag, dem 24. und 25.6.26 um 10 Uhr** vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Meldet euch über unser [Anmeldeformular](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt) an damit wir den Gepäcktransport planen können
 - [Telegram-Gruppe](https://t.me/+VUv2dQbU44ZmN2Vi) für Austausch und Fragen
@@ -23,8 +23,8 @@ Eine Idee die sich bewährt hat und euch übervolle stickigen Züge und Busse ve
 Begleitet uns für ein medium-sportives Event der Extraklasse, das darüber hinaus noch CO2-neutral ist. Wir bieten geführte Fahrradtouren für die Anreise zur Fusion an:
 
 ## Start:
-- Mittwoch (25.06.) 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
-- Donnerstag (26.06.) 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
+- Mittwoch (24.06.) 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
+- Donnerstag (25.06.) 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
  
 Die Strecke ist etwa 87 km lang! Ihr solltet um das zu schaffen zumindest gelegentlich längere Strecken mit dem Fahrrad fahren. Wir rechnen mit ca. 5-6 Stunden reiner Fahrzeit und es wird mehrere Stops, z.T. mit Einkaufsmöglichkeit geben.
 
@@ -32,8 +32,6 @@ Die Gruppe wird von zwei bis drei erfahrenen Radler*innen begleitet, die euch le
 
 ## Gepäcktransport
 Erstmals wird es in diesem Jahr für beide Touren auch einen Gepäcktransport geben. Für jeden Mitfahrenden können wir _ein Gepäckstück sowie ein Zelt o.ä._ nach Lärz transportieren. Wir können leider keinen Rücktransport anbieten - bitte haltet euch hierfür hier wenn möglich an eure Freunde und Mitcampenden.
-
-Um uns bei der Planung zu helfen, füllt bitte bis zum **Sonntag, 21.6.2025** das dafür nötige **[Anmeldeformular](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt)** aus!
 
 ## Routen
 - Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2024.gpx)
