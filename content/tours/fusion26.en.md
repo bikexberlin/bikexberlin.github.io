@@ -14,7 +14,7 @@ description = "from Berlin to Fusion, Lärz, 24.6.-28.6.26"
 - A guided tour on **Wednesday and Thursday, June 24th and 25th, 2026, at 10 a.m.** from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 
 - Leisurely speeds. We're not racing and will adjust the speed for the slowest riders.
-- Register using our [registration form](https://cloud.etrommer.de/apps/forms/s/4xXrTLXmcynXqn5YeCapqNHt) so we can plan the luggage transport better.
+- Register using our [registration form](https://cloud.etrommer.de/apps/forms/s/enmjMLd6sMofNLrSEEDDRbjR) so we can plan the luggage transport better.
 - [Telegram group](https://t.me/+VUv2dQbU44ZmN2Vi) for discussion and questions.
 - Our [FAQ](/faq) answers the most frequently asked questions.
 
