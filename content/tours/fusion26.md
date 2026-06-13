@@ -13,7 +13,8 @@ description = "von Berlin zur Fusion, Lärz, 24.6.-28.6.26"
 - Zusammen mit dem Fahrrad zur Fusion.
 - Eine begleitete Tour am **Mittwoch und Donnerstag, dem 24. und 25.6.26 um 10 Uhr** vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Meldet euch über unser [Anmeldeformular](https://cloud.etrommer.de/apps/forms/s/enmjMLd6sMofNLrSEEDDRbjR) an damit wir den Gepäcktransport planen können
+- Kostenlose Fahrradgarderobe für eure teuren Vollcarbon-Rennräder!
+- Meldet euch über unser [Anmeldeformular](https://cloud.etrommer.de/apps/forms/s/enmjMLd6sMofNLrSEEDDRbjR) an damit wir den Gepäcktransport und die Fahrradgarderobe planen können
 - [Telegram-Gruppe](https://t.me/+VUv2dQbU44ZmN2Vi) für Austausch und Fragen
 - In unseren [FAQ](/faq) werden die häufigsten Fragen beantwortet
 
@@ -31,7 +32,14 @@ Die Strecke ist etwa 87 km lang! Ihr solltet um das zu schaffen zumindest gelege
 Die Gruppe wird von zwei bis drei erfahrenen Radler*innen begleitet, die euch leichtfüßig ans Ziel begleiten. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel [OsmAnd](https://osmand.net)
 
 ## Gepäcktransport
-Erstmals wird es in diesem Jahr für beide Touren auch einen Gepäcktransport geben. Für jeden Mitfahrenden können wir _ein Gepäckstück sowie ein Zelt o.ä._ nach Lärz transportieren. Wir können leider keinen Rücktransport anbieten - bitte haltet euch hierfür hier wenn möglich an eure Freunde und Mitcampenden.
+Auch in diesem Jahr wird es für beide Touren wieder einen Gepäcktransport geben. Für jeden Mitfahrenden können wir _ein Gepäckstück sowie ein Zelt o.ä._ nach Lärz transportieren. Wir können leider keinen Rücktransport anbieten - bitte haltet euch hierfür hier wenn möglich an eure Freunde und Mitcampenden.
+
+## Fahrradparken
+Angst das euer zweirädriges Schätzchen geklaut oder beschädigt werden könnte? Nicht mit uns! Wir bieten erstmals eine Aufbewahrmöglichkeit für Fahrräder für die Zeit des Festivals an!
+- Abgabe: Mittwoch, 24.6., 16.00-20.00 & Donnerstag, 25.6., 16.00-20.00
+- Abholung: Sonntag, 27.6., 10.00-14.00 & Montag, 28.6., 10.00-14.00
+
+Ihr findet das [Drahteselgehege](https://fusion-festival.de/de/faq#drahteselgehege) auf F1-XL, direkt neben der Polizeiwache
 
 ## Routen
 - Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2024.gpx)

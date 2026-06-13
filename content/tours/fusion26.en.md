@@ -14,7 +14,8 @@ description = "from Berlin to Fusion, Lärz, 24.6.-28.6.26"
 - A guided tour on **Wednesday and Thursday, June 24th and 25th, 2026, at 10 a.m.** from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 
 - Leisurely speeds. We're not racing and will adjust the speed for the slowest riders.
-- Register using our [registration form](https://cloud.etrommer.de/apps/forms/s/enmjMLd6sMofNLrSEEDDRbjR) so we can plan the luggage transport better.
+- Free bike storage during the festival for your pricey road bikes!
+- Register using our [registration form](https://cloud.etrommer.de/apps/forms/s/enmjMLd6sMofNLrSEEDDRbjR) so we can plan the luggage transport and bike storage better.
 - [Telegram group](https://t.me/+VUv2dQbU44ZmN2Vi) for discussion and questions.
 - Our [FAQ](/faq) answers the most frequently asked questions.
 
@@ -30,13 +31,19 @@ Join us for a medium-sporty, top-class event that's even CO2-neutral! We offer g
 
 Both tours start at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 
-
 The route is approximately 87 km long! In order to tackle that distance, you should at least occasionally cycle longer distances. We estimate 5-6 hours of pure cycling time, and there will be several stops, some with shopping opportunities.
 
 The group will be accompanied by two or three experienced cyclists who will guide you to your destination. However, we recommend having the routes on your GPS-enabled communication device. As an app with offline maps for the dead spots of Brandenburg, [OsmAnd](https://osmand.net), is a good option.
 
 ## Luggage transport
-For the first time, both tours will also offer luggage transport! For each rider, we can transport one piece of luggage and a tent or similar item to Lärz. Unfortunately, we cannot offer return transport - please ask your friends and fellow campers for this if possible!
+Just like last year, both tours will also offer luggage transport! For each rider, we can transport one piece of luggage and a tent or similar item to Lärz. Unfortunately, we cannot offer return transport - please ask your friends and fellow campers for this if possible!
+
+## Bike Storage
+Worried about having your precious two-wheeled friend stolen or damaged? Fear not! For the first time this year, we offer a free bike storage option for the time of the festival!
+- Drop-off: Wednesday, 24th of June, 16.00-20.00 & Thursday, 25th of June, 16.00-20.00
+- Pick-Up: Sunday, 27th of June, 10.00-14.00 & Monday, 28th of June, 10.00-14.00
+
+You'll find the [Drahteselgehege](https://fusion-festival.de/de/faq#drahteselgehege) on F1-XL, right next to the police station
 
 ## Routes
 - Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](/routes/fusion/oranienburg-fusion2024.gpx)
