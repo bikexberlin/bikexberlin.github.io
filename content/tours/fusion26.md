@@ -37,7 +37,7 @@ Auch in diesem Jahr wird es für beide Touren wieder einen Gepäcktransport gebe
 ## Fahrradparken
 Angst das euer zweirädriges Schätzchen geklaut oder beschädigt werden könnte? Nicht mit uns! Wir bieten erstmals eine Aufbewahrmöglichkeit für Fahrräder für die Zeit des Festivals an!
 - Abgabe: Mittwoch, 24.6., 16.00-20.00 & Donnerstag, 25.6., 16.00-20.00
-- Abholung: Sonntag, 27.6., 10.00-14.00 & Montag, 28.6., 10.00-14.00
+- Abholung: Sonntag, 28.6., 10.00-14.00 & Montag, 29.6., 10.00-14.00
 
 Ihr findet das [Drahteselgehege](https://fusion-festival.de/de/faq#drahteselgehege) auf F1-XL, direkt neben der Polizeiwache
 
