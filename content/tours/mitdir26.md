@@ -8,10 +8,10 @@ description = "von Berlin zum Mit Dir festival in Friedland, 23.7.-26.7.2026"
 # Mit Dir Festival 2026
 Bald ist es schon so weit und wir fahren gemeinsam zum [Mit Dir Festival](https://www.mit-dir-festival.de/). Daher schonmal die ersten wichtigen Infos damit ihr wisst was euch erwartet auf den 80 km.
 
-Bei einer *Strecke von 80 km* handelt es sich um eine Strecke für erprobte Radler*innen und gute Konditionen sind Voraussetzung. Aber keine Sorge, wir werden kein Rennen fahren, vielmehr geht es um den Spaß am Radeln und das Miteinander. Wir machen genügend Pausen und achten aufeinander. Das heißt auch, wir richten uns an die Geschwindigkeiten aller Personen.
+Bei einer **Strecke von 80 km** handelt es sich um eine Strecke für erprobte Radler*innen und gute Konditionen sind Voraussetzung. Aber keine Sorge, wir werden kein Rennen fahren, vielmehr geht es um den Spaß am Radeln und das Miteinander. Wir machen genügend Pausen und achten aufeinander. Das heißt auch, wir richten uns an die Geschwindigkeiten aller Personen.
 Die bisherige Erfahrung war, dass es alle ans Ziel geschafft haben ;)
 
-Wir starten um *10 Uhr in Erkner am Bahnhof*. Treffpunkt ist 9:30, sodass wir pünktlich starten. Wir werden ungefähr 6 Stunden unterwegs sein.
+Wir starten um **10 Uhr in Erkner am Bahnhof. Treffpunkt ist 9:30**, sodass wir pünktlich starten. Wir werden ungefähr 6 Stunden unterwegs sein.
 
 Wir werden nach den ersten 30 km an einem Supermarkt vorbei kommen. Bis dahin solltet ihr ausreichend Wasser und Essen bei haben. Nach circa 50 km Strecke erreichen wir einen See an dem
  wir uns abkühlen können und eine längere Pause machen. Kurz vor dem Festival werden wir nochmal an einem Supermarkt halten.

@@ -7,10 +7,10 @@ description = "from Berlin to the Mit Dir festival in Friedland, 23.7.-26.7.2026
 
 It's almost time for us to cycle together to the [Mit Dir Festival](https://www.mit-dir-festival.de/). Here is some initial important information so you know what to expect on the 80 km journey.
 
-An *80 km route* is a ride for experienced cyclists; a good level of fitness is required. But don't worry—we won't be racing; the focus is on the joy of cycling and riding together. We will take plenty of breaks and look out for one another. This means we will adjust our pace to suit everyone in the group.
+An **80 km route** is a ride for experienced cyclists; a good level of fitness is required. But don't worry—we won't be racing; the focus is on the joy of cycling and riding together. We will take plenty of breaks and look out for one another. This means we will adjust our pace to suit everyone in the group.
 Past experience shows that everyone makes it to the finish line ;)
 
-We start at *10:00 AM at Erkner train station*. Please meet at 9:30 AM so we can set off on time. We will be on the road for approximately 6 hours.
+We start at **10:00 AM at Erkner train station**. Please **meet at 9:30 AM** so we can set off on time. We will be on the road for approximately 6 hours.
 
 We will pass a supermarket after the first 30 km. You should carry enough food and water to last until then. After about 50 km, we will reach a lake where we can cool off and take a longer break. We will make one more stop at a supermarket shortly before arriving at the festival.
 
