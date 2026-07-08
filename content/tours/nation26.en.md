@@ -44,5 +44,5 @@ Over the years we have found two very nice routes to the festival, these will be
 
 ⚠️ 2026 Routes might be still slightly optimized GPX and Komoot of 2025 are linked as of now ⚠️
 
-- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
-- Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
+- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog26.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
+- Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog26.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
