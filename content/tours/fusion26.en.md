@@ -41,7 +41,7 @@ Just like last year, both tours will also offer luggage transport! For each ride
 ## Bike Storage
 Worried about having your precious two-wheeled friend stolen or damaged? Fear not! For the first time this year, we offer a free bike storage option for the time of the festival!
 - Drop-off: Wednesday, 24th of June, 16.00-20.00 & Thursday, 25th of June, 16.00-20.00
-- Pick-Up: Sunday, 27th of June, 10.00-14.00 & Monday, 28th of June, 10.00-14.00
+- Pick-Up: Sunday, 28th of June, 10.00-14.00 & Monday, 29th of June, 10.00-14.00
 
 You'll find the [Drahteselgehege](https://fusion-festival.de/de/faq#drahteselgehege) on F1-XL, right next to the police station
 
