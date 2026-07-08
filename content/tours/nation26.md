@@ -40,9 +40,8 @@ Für diejenigen Tourteilnehmenden mit einem [Bike Stage Plus Ticket](https://www
 Anders als früher Jahren gibt es ohne Bike Stage Plus Ticket _keinen_ Gepäcktransport durch uns. Wer lediglich ein normales Festivalticket hat, ist dennoch herzlich willkommen sich anzuschließen - ihr müsst euer Gepäck dann nur selbst mitnehmen.
 
 ## Routen
-Wir haben über die Jahre zwei sehr schöne Routen zum Festival gefunden, diese werden weiter aktualisiert. Auch wenn ihr unabhängig von den gemeinsamen Fahrradtouren anreisen wollt, nutzt gerne diese Routen:
+Wir haben über die Jahre zwei sehr schöne Routen zum Festival gefunden, diese werden weiter aktualisiert. Auch wenn ihr unabhängig von den gemeinsamen Fahrradtouren anreisen wollt, empfehlen wir diese Routen:
 
-⚠️ die Routenführung wird für 2026 eventuell noch leicht angepasst bisher sind die  GPX und Komoot von 2025 verlinkt ⚠️
 
-- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog25.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
-- Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog25.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
+- Berlin - Nation of Gondwana: [GPX](/routes/nog/berlin-nog26.gpx) [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd)
+- Hennigsdorf - Nation of Gondwana: [GPX](/routes/nog/hennigsdorf-nog26.gpx) [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd)
