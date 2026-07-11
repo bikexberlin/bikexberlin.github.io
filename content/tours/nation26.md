@@ -12,6 +12,9 @@ Hier die Kurzversion für die ganz Eiligen:
 - Da das Festival dieses Jahr einen Tag früher beginnt, gibt es insgesamt 4 gemeinsame, geführte Touren, zwei am Donnerstag (16.7.) und zwei am Freitag (17.7.):
     - Donnerstag und Freitag um 11:30 Uhr, 42 km ab [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
     - Donnerstag und Freitag um 13:30 Uhr, 22 km ab [Postplatz am S Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489)
+
+    ⚠️⚠️⚠️Wichtige Info für alle, die planen mit S Bahn zum Treffpunkt der geführten Touren nach Hennigsdorf zu fahren. Die S25 ist zwischen S-Bornholmer Straße und S-Schönholz     unterbrochen 🚧. Als Umfahrung bietet sich die U8 bis U+S Karl-Bonhoeffer-Nervenklinik an, dort kann in die S25 nach Hennigsdorf umgestiegen werden. ⚠️⚠️⚠️
+    
 - Für Fahrradfahrende wird mit dem [Bike Stage Plus Ticket](https://www.tixforgigs.com/de-DE/Event/66753/nation-of-gondwana-2026-waldsee-bei-grunefeld-grunefeld-bei-berlin) dieses Jahr dein Gepäck (max. 1 großes Gepäckstück + 1 Zelt) zur Nation und zurück transportiert.
     - Gepäck für die Hinreise wird an den Treffpunkten für die gemeinsamen Touren entgegengenommen und dort gekennzeichnet.
     - Gepäckrücktransport Abgabe auf dem Acker bis Montag 12:00 Uhr an der Bike Stage (Fahrradgadrobe)
@@ -26,6 +29,9 @@ Nach den Erfolgen in den letzten Jahren gibt es wieder ein von uns angeleiertes 
 
 - Aus dem Berliner Norden am Donnerstag und Freitag mit Treffpunkt um 11:30 Uhr geht es vom [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) aus los. Die Strecke ist etwa 42 km lang.
 - Von Hennigsdorf am Donnerstag und Freitag mit Treffpunkt um 13:30 Uhr auf der deutlich kürzeren Strecke. Vom [Postplatz am S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch 22 km zur NoG.
+- 
+    ⚠️⚠️⚠️Wichtige Info für alle, die planen mit S Bahn zum Treffpunkt der geführten Touren nach Hennigsdorf zu fahren. Die S25 ist zwischen S-Bornholmer Straße und S-Schönholz     unterbrochen 🚧. Als Umfahrung bietet sich die U8 bis U+S Karl-Bonhoeffer-Nervenklinik an, dort kann in die S25 nach Hennigsdorf umgestiegen werden. ⚠️⚠️⚠️
+    
 
 Jede Gruppe wird von erfahrenen nach-Grünefeld-und-zurück-Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel [OsmAnd](https://osmand.net/)
 
