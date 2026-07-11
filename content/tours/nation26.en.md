@@ -12,6 +12,9 @@ Here is the short version for those in a hurry:
 - As the festival starts a day earlier this year, there are in total 4 joint, guided tours, two on Thursday 16.7 and two Friday 17.7:
     - Thursday and Friday at 11:30, 42 km from [Blochplatz at S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590)
     - Thursday and Friday at 13:30, 22 km from [Postplatz am S Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489)
+
+    ⚠️⚠️⚠️ Important information for anyone planning to take the S-Bahn to Hennigsdorf for the guided tour meeting point: Service on the S25 line is suspended between S-Bornholmer Straße and S-Schönholz 🚧. As an alternative route, you can take the U8 line to the U+S Karl-Bonhoeffer-Nervenklinik station and transfer there to the S25 heading to Hennigsdorf. ⚠️⚠️⚠️
+    
 - For cyclists with a [Bike Stage Plus Ticket](https://www.tixforgigs.com/en-gb/Event/66753/nation-of-gondwana-2026-waldsee-bei-grunefeld-grunefeld-bei-berlin) we will transport your luggage (max. 1 big piece of luggage + 1 tent) to Nation and back this year.
     - Luggage for the outward journey will be accepted at the meeting points for the joint tours and marked there.
     - Luggage transportation back from Nation until Monday 12:00 noon at the Bike Stage ("bike coat check")
@@ -26,6 +29,8 @@ Following the success of previous years, we are once again organizing a top-clas
 
 - From the north of Berlin on Thursday and Friday meeting at 11:30, starting from [Blochplatz am S+U Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 42 km long.
 - From Hennigsdorf on Thursday and Friday meeting at 13:30 on the much shorter route. From [Postplatz am S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it is only 22 km to the NoG.
+
+⚠️⚠️⚠️ Important information for anyone planning to take the S-Bahn to Hennigsdorf for the guided tour meeting point: Service on the S25 line is suspended between S-Bornholmer Straße and S-Schönholz 🚧. As an alternative route, you can take the U8 line to the U+S Karl-Bonhoeffer-Nervenklinik station and transfer there to the S25 heading to Hennigsdorf. ⚠️⚠️⚠️
 
 Each group will be accompanied by experienced to-Grünefeld-and-back cyclists who will guide you light-footedly to your destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. For example, [OsmAnd](https://osmand.net/) is a suitable app with offline maps for Brandenburg's dead spots.
 
