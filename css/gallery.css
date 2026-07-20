@@ -1,0 +1,24 @@
+/* Target the image inside the wrapper */
+.pswp-gallery img {
+    /* Ensures the image fills the container up to its original size, but never stretches beyond it. */
+    width: 100%;
+
+    /* NEW CONSTRAINT: Prevents the image from exceeding its original thumbnail width. */
+    max-width: 300px;
+
+    /* Maintain the image's correct aspect ratio */
+    height: auto;
+
+    /* Use 'display: block' to remove any potential unwanted space below the image */
+    display: block;
+}
+
+/* The container CSS from before remains the same, ensuring responsiveness and spacing */
+.pswp-gallery {
+    padding-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
