@@ -1,7 +1,7 @@
 +++
 title = "at.tension #11"
 date = 2026-09-03
-updated = 2025-12-10
+updated = 2026-08-26
 description = "von Berlin aus zum at.tension Theaterfestival, Lärz, 3.-6.9.2026"
 +++
 
@@ -25,7 +25,7 @@ Die Gruppe wird von erfahrenen Radler*innen begleitet, die euch leichtfüßig an
 
 "Kostet die Tour etwas?" Die Tour is kostenfrei, es entstehen weder für die Tour noch für das Gepäckshuttle kosten.
 
-"Ich habe ein Frage!?"", meldet euch gerne in unserer Telegram Gruppe, dort können wir Fragen beantworten und Details klären: über diesen Link zu erreichen: [Link](https://t.me/+67SB0Rqc5UcwMzEy)
+"Ich habe ein Frage!?"", meldet euch gerne in unserer Telegram Gruppe, dort können wir Fragen beantworten und Details klären: über diesen Link zu erreichen: [Link](https://t.me/+K82NDPqJcC83YmEy)
 
 
 Kurzfassung
@@ -33,8 +33,8 @@ Kurzfassung
 "Das ist mir alles zu viel Text!" Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
 
 Zusammen mit dem Fahrrad zur At.tension.
-- Eine begleitete Tour am Donnerstag den 15.09.24 um 10 Uhr vom S-Bhf Oranienburg.
+- Eine begleitete Tour am Donnerstag den 03.09.24 um 10 Uhr vom S-Bhf Oranienburg.
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Es ist ein kostenloses Gepäcktransport zur At.tension von unserer Seite möglich.
-- Telegram-Gruppe für Austausch und Fragen: [Link](https://t.me/+67SB0Rqc5UcwMzEy)
+- Telegram-Gruppe für Austausch und Fragen: [Link](https://t.me/+K82NDPqJcC83YmEy)
 - oder schreibe uns an bikex@mail.de Kommt in Fahrt mit uns! Wir freuen uns auf euch.
