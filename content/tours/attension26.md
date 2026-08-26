@@ -15,7 +15,7 @@ Die Strecke ist etwa 87 km lang!
 
 Die Gruppe wird von erfahrenen Radler*innen begleitet, die euch leichtfüßig ans Ziel begleiten. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OSMand. 
 
-**Route**: Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](assets/routes/Oranienburg-Attension2024.gpx)
+**Route**: Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](assets/routes/Oranienburg-Attension2026.gpx)
 
 “So sportlich bin ich nicht!”, zweifelt ihr jetzt vielleicht. Grundsätzlich braucht man bei 87 km und mindestens 5-6h reiner Fahrzeit eine gewisse Fitness. Gemeinsam als Gruppe fahren wir aber in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
 
