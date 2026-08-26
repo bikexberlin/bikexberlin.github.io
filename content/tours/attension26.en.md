@@ -9,7 +9,7 @@ Who wants to join us to ride with a bicycle to the At.tension festival? We have 
 Thursday (3.9.) morning at 10 AM we will meet to set off from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) . The route is about 87 km long.
 
 The group will be accompanied by experimented cyclists who will pedal with you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg’s no network spots. 
-Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](assets/routes/Oranienburg-Attension2024.gpx)
+Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](https://www.bikexberlin.de/routes/fusion/oranienburg-fusion2024.gpx)
 
 
 “Am i fit enough?” you might be thinking. Basically you will need a certain fitness to complete the 85km with a minimum riding time of about 5-6h. But together as a group we ride at a leisurely pace, taking pee, drink and short rest breaks whenever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time.
