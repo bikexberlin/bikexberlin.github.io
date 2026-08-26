@@ -17,6 +17,7 @@ Die Gruppe wird von erfahrenen Radler*innen begleitet, die euch leichtfüßig an
 
 **Route**: Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](https://www.bikexberlin.de/routes/fusion/oranienburg-fusion2024.gpx
 )
+
 “So sportlich bin ich nicht!”, zweifelt ihr jetzt vielleicht. Grundsätzlich braucht man bei 87 km und mindestens 5-6h reiner Fahrzeit eine gewisse Fitness. Gemeinsam als Gruppe fahren wir aber in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
 
 “Ich fahre aber immer Meisterleistung in Rekordzeit” Kannste! Wir veröffentlichen unsere Routen hier in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne*n Buddy und hau rein, wenn’s dir bei uns zu langsam wird.
