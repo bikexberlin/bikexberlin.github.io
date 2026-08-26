@@ -18,7 +18,7 @@ The group will be accompanied by experimented cyclists who will pedal with you s
 
 “Does the tour cost anything?” The tour is free of charge, there are no costs for the tour or the luggage transport.
 
-"I have a question!?"", join our Telegram Group: [Link](https://t.me/+67SB0Rqc5UcwMzEy) , there we can answer questions and clarify details.
+"I have a question!?"", join our Telegram Group: [Link](https://t.me/+K82NDPqJcC83YmEy) , there we can answer questions and clarify details.
 
 
 short Version
@@ -29,7 +29,7 @@ short Version
 - We meet Thursday 05.09.24 10:00 am at S-Bhf Oranienburg.
 - The route will be approximatly 87 km long.
 - Free luggage transport organized from our side.
-- If you have any questions please join our Telegram Group: [Link](https://t.me/+67SB0Rqc5UcwMzEy)
+- If you have any questions please join our Telegram Group: [Link](https://t.me/+K82NDPqJcC83YmEy)
 - or write us via bikex@mail.de
 
 Get going with us! We look forward to seeing you.
