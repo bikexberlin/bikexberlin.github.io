@@ -1,7 +1,7 @@
 +++
 title = "at.tension #11"
 date = 2026-09-03
-updated = 2025-12-10
+updated = 2026-08-25
 description = "from Berlin to the 10th at.tension theatre festival, Lärz, 3.-6.9.2026"
 +++
 Who wants to join us to ride with a bicycle to the At.tension festival? We have come up with a medium-sporty event in a class of its own that is also CO2-neutral. We are offering a bike tour for the journey to At.tension festival:
@@ -26,7 +26,7 @@ short Version
 "This is all too much text for me!" We even thought of you! Here's the short version again:
 
 - Cycling to the At.tension together.
-- We meet Thursday 05.09.24 10:00 am at S-Bhf Oranienburg.
+- We meet Thursday 03.09.26 10:00 am at S-Bhf Oranienburg.
 - The route will be approximatly 87 km long.
 - Free luggage transport organized from our side.
 - If you have any questions please join our Telegram Group: [Link](https://t.me/+K82NDPqJcC83YmEy)
